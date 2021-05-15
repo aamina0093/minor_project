@@ -15,8 +15,11 @@ Modules of the System
 
 Tools and Platforms
 For front end: HTML, CSS.
+
 For back end: PHP
+
 Text Editor: Sublime Text 3
+
 Server: XAMPP Control Panel (v-3.2.4) 
 	      Apache
 	      MySQL
