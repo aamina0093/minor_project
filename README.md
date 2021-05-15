@@ -20,8 +20,6 @@ For back end: PHP
 
 Text Editor: Sublime Text 3
 
-Server: XAMPP Control Panel (v-3.2.4) 
-	      Apache
-	      MySQL
+Server: XAMPP Control Panel (v-3.2.4), Apache, MySQL
 
 
